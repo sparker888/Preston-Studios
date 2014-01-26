@@ -1,0 +1,19 @@
+; $Id: preston_studios.info,v 1.5 Exp $
+name = preston_studios
+description = this template is made by template-help.com.
+version = 6.15
+core = 6.x
+engine = phptemplate
+
+version = "6.15"
+project = "drupal"
+datestamp = "1202913006"
+
+php = DRUPAL_MINIMUM_PHP
+
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[content] = content
+regions[footer] = Footer
+regions[custom] = Custom
+regions[main_section] = Main Section
